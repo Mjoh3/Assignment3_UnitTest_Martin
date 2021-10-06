@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assignment3_XUNIT_calc_Martin", "Assignment3_XUNIT_calc_Martin\Assignment3_XUNIT_calc_Martin.csproj", "{76C0AE97-3AA0-4BD1-BDEE-FA09CE29B7EA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculator_project", "Calculator_project\Calculator_project.csproj", "{06028D4C-D722-4A61-A736-47BB89BB912B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{76C0AE97-3AA0-4BD1-BDEE-FA09CE29B7EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76C0AE97-3AA0-4BD1-BDEE-FA09CE29B7EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76C0AE97-3AA0-4BD1-BDEE-FA09CE29B7EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76C0AE97-3AA0-4BD1-BDEE-FA09CE29B7EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{06028D4C-D722-4A61-A736-47BB89BB912B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06028D4C-D722-4A61-A736-47BB89BB912B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06028D4C-D722-4A61-A736-47BB89BB912B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06028D4C-D722-4A61-A736-47BB89BB912B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {282B6C08-9573-400E-9E30-8F37F29FCAFB}
+	EndGlobalSection
+EndGlobal

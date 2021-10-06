@@ -1,0 +1,13 @@
+C:\Users\Martin Johansson\source\repos\Assignment3_XUNIT_calc_Martin\Calculator_project\bin\Debug\netcoreapp3.1\Calculator_project.exe
+C:\Users\Martin Johansson\source\repos\Assignment3_XUNIT_calc_Martin\Calculator_project\bin\Debug\netcoreapp3.1\Calculator_project.deps.json
+C:\Users\Martin Johansson\source\repos\Assignment3_XUNIT_calc_Martin\Calculator_project\bin\Debug\netcoreapp3.1\Calculator_project.runtimeconfig.json
+C:\Users\Martin Johansson\source\repos\Assignment3_XUNIT_calc_Martin\Calculator_project\bin\Debug\netcoreapp3.1\Calculator_project.runtimeconfig.dev.json
+C:\Users\Martin Johansson\source\repos\Assignment3_XUNIT_calc_Martin\Calculator_project\bin\Debug\netcoreapp3.1\Calculator_project.dll
+C:\Users\Martin Johansson\source\repos\Assignment3_XUNIT_calc_Martin\Calculator_project\bin\Debug\netcoreapp3.1\Calculator_project.pdb
+C:\Users\Martin Johansson\source\repos\Assignment3_XUNIT_calc_Martin\Calculator_project\obj\Debug\netcoreapp3.1\Calculator_project.csprojAssemblyReference.cache
+C:\Users\Martin Johansson\source\repos\Assignment3_XUNIT_calc_Martin\Calculator_project\obj\Debug\netcoreapp3.1\Calculator_project.AssemblyInfoInputs.cache
+C:\Users\Martin Johansson\source\repos\Assignment3_XUNIT_calc_Martin\Calculator_project\obj\Debug\netcoreapp3.1\Calculator_project.AssemblyInfo.cs
+C:\Users\Martin Johansson\source\repos\Assignment3_XUNIT_calc_Martin\Calculator_project\obj\Debug\netcoreapp3.1\Calculator_project.csproj.CoreCompileInputs.cache
+C:\Users\Martin Johansson\source\repos\Assignment3_XUNIT_calc_Martin\Calculator_project\obj\Debug\netcoreapp3.1\Calculator_project.dll
+C:\Users\Martin Johansson\source\repos\Assignment3_XUNIT_calc_Martin\Calculator_project\obj\Debug\netcoreapp3.1\Calculator_project.pdb
+C:\Users\Martin Johansson\source\repos\Assignment3_XUNIT_calc_Martin\Calculator_project\obj\Debug\netcoreapp3.1\Calculator_project.genruntimeconfig.cache
